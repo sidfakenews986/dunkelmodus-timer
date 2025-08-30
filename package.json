@@ -1,6 +1,8 @@
 {
   "name": "dunkelmodus-timer",
   "version": "1.0.0",
+  "description": "Ein Timer für den Dunkelmodus",
+  "author": "Ihr Name",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
