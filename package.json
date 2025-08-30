@@ -1,1 +1,12 @@
 {
+  "name": "mein-paket",
+  "version": "1.0.0",
+  "description": "Dies ist ein Beispielpaket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Fehler: Kein Test angegeben' && exit 1"
+  },
+  "keywords": ["beispiel", "paket"],
+  "author": "Mein Name",
+  "license": "ISC"
+}
