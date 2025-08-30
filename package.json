@@ -1,13 +1,1 @@
 {
-  "name": "dunkelmodus-timer",
-  "version": "1.0.0",
-  "description": "Ein Timer für den Dunkelmodus",
-  "author": "Your Name Here",
-  "main": "index.html",
-  "scripts": {
-    "start": "node server.js",
-    "build": "echo 'Build script can be implemented here'"
-  },
-  "dependencies": {},
-  "license": "MIT"
-}
