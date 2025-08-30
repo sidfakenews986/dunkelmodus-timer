@@ -1,12 +1,12 @@
 {
   "name": "mein-paket",
   "version": "1.0.0",
-  "description": "This is a sample package",
+  "description": "Dies ist ein Beispielpaket",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Error: No test specified' && exit 1"
+    "test": "echo 'Fehler: Kein Test angegeben' && exit 1"
   },
-  "keywords": ["sample", "package"],
+  "keywords": ["beispiel", "paket"],
   "author": "Mein Name",
   "license": "ISC"
 }
