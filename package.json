@@ -5,7 +5,8 @@
   "author": "Your Name Here",
   "main": "index.html",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'Build script can be implemented here'"
   },
   "dependencies": {},
   "license": "MIT"
